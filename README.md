@@ -6,6 +6,11 @@ A new Flutter project.
 
 ![Screenshot_1714590117](https://github.com/H1aitham/Ecommerce-UI/assets/168301401/644c7fba-e48b-4635-819b-09f7a8056a4d)
 
+![Screenshot_1714590136](https://github.com/H1aitham/Ecommerce-UI/assets/168301401/504e0bb1-f21b-40cf-ae4d-1dafb31bc056)
+
+
+
+
 
 This project is a starting point for a Flutter application.
 
