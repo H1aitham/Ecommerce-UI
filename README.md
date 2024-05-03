@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+
+
+![Screenshot_1714590117](https://github.com/H1aitham/Ecommerce-UI/assets/168301401/644c7fba-e48b-4635-819b-09f7a8056a4d)
+
 
 This project is a starting point for a Flutter application.
 
